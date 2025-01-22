@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (itesm-mna-computer-vision)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (itesm-mna-computer-vision)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12.3 WSL (Ubuntu): (/home/dortega/.virtualenvs/itesm-mna-computer-vision/bin/python)" project-jdk-type="Python SDK" />
 </project>
